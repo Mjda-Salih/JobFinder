@@ -34,7 +34,9 @@
       // Redirect script for GitHub Pages and Vue Router
       var path = window.location.pathname;
       var redirectUrl =
-        window.location.origin + "/JobFinder/" + path.replace("/JobFinder", "");
+        window.location.origin +
+        "/JobFinder/#" +
+        path.replace("/JobFinder", "");
       window.location.replace(redirectUrl);
     </script>
   </body>
