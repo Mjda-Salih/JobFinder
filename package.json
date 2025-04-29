@@ -16,7 +16,7 @@
     "jquery": "^3.6.0",
     "popper.js": "^1.16.1",
     "vue": "^3.0.0",
-    "vue-map-chart": "0.0.2",
+    "vue-map-chart": "^0.0.2",
     "vue-router": "^4.0.0-0",
     "vue-uuid": "^3.0.0",
     "vuex": "^4.0.0-0",

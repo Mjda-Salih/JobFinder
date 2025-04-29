@@ -50,7 +50,7 @@
 </template>
 <script>
 import SearchJobCard from "./SearchJobCard.vue";
-import image from "../assets/maps/mapOfficial.png";
+import image from "../assets/maps/newMap.png";
 import JobPortal from "../assets/img/JobPortal.png";
 import MapChart from "vue-map-chart";
 import { mapGetters } from "vuex";
@@ -91,8 +91,8 @@ export default {
 }
 .NIR {
   position: relative;
-  top: -373px;
-  left: 486px;
+  top: -463px;
+  left: 546px;
   font-weight: bold;
   font-size: 22px;
 }
@@ -105,14 +105,14 @@ export default {
 }
 .ENG {
   position: relative;
-  top: -337px;
-  left: 808px;
+  top: -427px;
+  left: 770px;
   font-weight: bold;
   font-size: 25px;
 }
 .WLS {
   position: relative;
-  top: -317px;
+  top: -367px;
   left: 677px;
   font-weight: bold;
   font-size: 22px;
