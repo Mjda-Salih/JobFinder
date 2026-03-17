@@ -22,6 +22,7 @@
               <ul class="list-unstyled my-xl-4 my-md-3">
                 <li>Copyright</li>
                 <li>&#9400; Job Portal 2026</li>
+                <li>Designed & Developed by Mjda Salih</li>
               </ul>
             </div>
           </div>
