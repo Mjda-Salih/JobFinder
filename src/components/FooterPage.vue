@@ -21,14 +21,15 @@
               </ul>
               <ul class="list-unstyled my-xl-4 my-md-3">
                 <li>Copyright</li>
-                <li>&#9400; Job Portal 2025</li>
+                <li>&#9400; Job Portal 2026</li>
               </ul>
             </div>
           </div>
           <div class="row justify-content-center px-3 py-3 pt-5">
             <div class="col text-center">
               <p class="mb-0">
-                “I never dreamed about success. I worked for it.” — Estee Lauder
+                Find opportunities, build your future, and take the next step in
+                your career.
               </p>
             </div>
           </div>
