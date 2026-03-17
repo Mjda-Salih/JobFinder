@@ -126,13 +126,10 @@ export default {
 
 <style>
 .navbar__custom {
-  position: fixed;
-  top: 0;
-  z-index: 1000;
-  width: 100%;
   font-weight: 600;
   font-size: 15px;
   padding: 25px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 .navbar-nav {
   align-items: center;
