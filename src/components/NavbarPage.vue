@@ -126,6 +126,10 @@ export default {
 
 <style>
 .navbar__custom {
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+  width: 100%;
   font-weight: 600;
   font-size: 15px;
   padding: 25px;
